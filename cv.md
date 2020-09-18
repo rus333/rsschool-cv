@@ -1,10 +1,10 @@
-1.#Ruslan Okhremchuk#
-2.80447677552
-3.After graduation, I worked as a sales manager, then opened my own online store. To this day, I sell goods through my online store.
+1. # Ruslan Okhremchuk #
+2. 80447677552
+3. After graduation, I worked as a sales manager, then opened my own online store. To this day, I sell goods through my online store.
 First of all, I want to gain knowledge from the course, and on the basis of this knowledge to gain experience. To achieve these goals, I am ready to study hard.
-4.Knowledge of __HTML, CSS. RSSchool, HTML Academy, HTML basics, CSS basics, JS basics courses__
+4. Knowledge of __HTML, CSS. RSSchool, HTML Academy, HTML basics, CSS basics, JS basics courses__
 
- 5.
+5. 
  ```
  <header class="header">
       <div class="wrapper">
@@ -49,5 +49,5 @@ First of all, I want to gain knowledge from the course, and on the basis of this
     </header>
 ```
 
-6.Economic Degree from International University **MITSO**
-7.I studied english at school and university, English(A2+)
+6. Economic Degree from International University _MITSO_
+7. I studied english at school and university, English(A2+)

@@ -5,6 +5,16 @@
 .header {
     display: flex;
 }
+.img {
+  margin: 20px;
+}
 .name {
     padding-left: 40px;
+}
+.education {
+  color: brown;
+  padding: 10px 0px 10px 0px;
+}
+.studied {
+  font-size: 20px;
 }
